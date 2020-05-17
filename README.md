@@ -26,7 +26,7 @@ Board revision and notes
 
 11-04-2020 - MegaDuino 2.8
 
-* Jumpers added to allow selection of signal gain. Now it is possible to select between 50 and 200.
+* Jumpers added to allow selection of signal gain. Now it's possible to select between 50 and 200.
 
 Links:
 
