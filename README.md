@@ -4,7 +4,7 @@ An improved versión of the initial MegaDuino project started by me on September
 
 MegaDuino is an evolution of other projects like TZXDuino and CASduino but it's based on the Arduino Mega 2560 Pro Embed board.
 
-It's a digital cassette tape player that allows the loading of games and applications on retro computers, mainly 8-bit computers such as the
+It's a digital cassette tape player that allows the load of games and applications on retro computers, mainly 8-bit computers such as the
 ZX Spectrum, Amstrad CPC and others.
 
 A special thanks to Alfredo (acf76es), without his help this update would not have been possible.
