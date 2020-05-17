@@ -22,7 +22,7 @@ Board revision and notes
 * Removed extra 5v & 3.3v pins
 * ICSP pins moved to a better position to allow program the Mega 2560 without opening the case.
 
-10-03-2020 - MegaDuino 2.8
+11-04-2020 - MegaDuino 2.8
 
 * Jumpers added to allow selection of signal gain. Now it is possible to select between 50 and 200.
 
