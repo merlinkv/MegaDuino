@@ -11,9 +11,7 @@ ZX Spectrum, Amstrad CPC and others.
 
 A special thanks to Alfredo (acf76es), without his help this update would not have been possible.
 
-MegaDuino 2.9 has been tested on ZX Spectrum, Amstrad CPC, MSX, Oric Atmos, Dragon & Tandy Coco computers.
-
-I can't garantee that it works on other computers.
+MegaDuino 2.9 has been tested on ZX Spectrum, Amstrad CPC, MSX, Oric Atmos, Dragon, Tandy Coco, Acorn Electron, BBC-Micro, ZX80 & ZX81 computers.
 
 Board revision and notes
 
