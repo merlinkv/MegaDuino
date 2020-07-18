@@ -17,7 +17,7 @@ Board revision and notes
 
 16-05-2020 - MegaDuino 2.9
 
-* Reworked amplifier schema and added a DPDT slide switch to completely separate signal when th amplifier is ON or OFF.
+* Reworked amplifier schema and added a DPDT slide switch to completely separate signal when the amplifier is ON or OFF.
 * Reworked connections of the Audio OUT jack to allow use of stereo or mono cables without need to modify them. Also eliminates undesired signals.
 * Removed extra 5v & 3.3v pins
 * ICSP pins moved to a better position to allow program the Mega 2560 without opening the case.
