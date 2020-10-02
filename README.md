@@ -4,7 +4,8 @@ An improved versión of the initial MegaDuino project started by me on September
 
 MegaDuino is an evolution of other projects like TZXDuino and CASduino but it's based on the Arduino Mega 2560 Pro Embed board.
 
-MegaDuino works with my firmware MaxDuino 1.54M, a modification of the MaxDuino software from Rafael Molina (https://github.com/rcmolina/MaxDuino_v1.54).
+MegaDuino works with my firmware MaxDuino "M" version, a modification of the MaxDuino firmware specially developed for Arduino Mega 2560 family boards,
+OLED 128x64 1.3" (64 rowws) & LCD 20x4 screens, it also add an extra button for Reset or future purpouses.
 
 It's a digital cassette tape player that allows the load of games and applications on retro computers, mainly 8-bit computers such as the
 ZX Spectrum, Amstrad CPC and others.
