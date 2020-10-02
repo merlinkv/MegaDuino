@@ -14,8 +14,6 @@ A special thanks to Alfredo (acf76es), without his help this update would not ha
 
 Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina and others.
 
-Special thanks acf76es for it's help.
-
 MegaDuino 2.9 has been tested on ZX Spectrum, Amstrad CPC, MSX, Oric Atmos, Dragon, Tandy Coco, Acorn Electron, BBC-Micro, ZX80 & ZX81 computers.
 
 Board revision and notes
