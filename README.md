@@ -23,7 +23,7 @@ Board revision and notes
   * Added Buzzer circuitry to allow listening the loading sounds directly from MegaDuino. Can be activated or deactivated.
   * Added 3mm leds for External Power, USB Power, Amplifier ON, Amplifier OFF & Buzzer ON/OFF
   * Amplifier & Buzzer gain can be selected (Amplifier 20, 50 & 200 - Buzzer 20 & 50) by jumpers
-  * Two Remote connectors 2.5mm & 3.5mm to allow all possibilities
+  * Two Remote connectors 2.5mm & 3.5mm to allow all connection possibilities
   * Removed ICSP pins
 
 16-05-2020 - MegaDuino 2.9
