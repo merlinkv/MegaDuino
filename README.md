@@ -1,10 +1,10 @@
-# MegaDuino 2.9
+# MegaDuino PM 1.3
 
 An improved versión of the initial MegaDuino project started by me on September 2019.
 
 MegaDuino is an evolution of other projects like TZXDuino and CASduino but it's based on the Arduino Mega 2560 Pro Embed board.
 
-MegaDuino works with my firmware MaxDuino "M" version, a modification of the MaxDuino firmware specially developed for Arduino Mega 2560 family boards,
+MegaDuino works with my firmware MegaDuino Firmware version, a modification of the MaxDuino firmware specially developed for Arduino Mega 2560 family boards,
 OLED 128x64 1.3" (64 rows) & LCD 20x4 screens, it also add an extra button for Reset or future purpouses.
 
 It's a digital cassette tape player that allows the load of games and applications on retro computers, mainly 8-bit computers such as the
@@ -14,9 +14,12 @@ A special thanks to Alfredo (acf76es), without his help this update would not ha
 
 Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina and others.
 
-MegaDuino 2.9 has been tested on ZX Spectrum, Amstrad CPC, MSX, Oric Atmos, Dragon, Tandy Coco, Acorn Electron, BBC-Micro, ZX80 & ZX81 computers.
+MegaDuino PM 1.3 has been tested on ZX Spectrum, Amstrad CPC, MSX, Oric Atmos, Dragon, Tandy Coco, Acorn Electron, BBC-Micro, ZX80 & ZX81 computers.
 
 Board revision and notes
+
+05-10-2020 - MegaDuino PM 1.3
+  *
 
 16-05-2020 - MegaDuino 2.9
 
