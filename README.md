@@ -19,7 +19,12 @@ MegaDuino PM 1.3 has been tested on ZX Spectrum, Amstrad CPC, MSX, Oric Atmos, D
 Board revision and notes
 
 05-10-2020 - MegaDuino PM 1.3
-  *
+  * All capacitor & resistors now are SMD
+  * Added Buzzer circuitry to allow loading sounds directly from MegaDuino. Can be activated or deactivated.
+  * Added 3mm leds for External Power, USB Power, Amplifier ON, Amplifier OFF & Buzzer ON/OFF
+  * Amplifier & Buzzer gain can be selected (Amplifier 20, 50 & 200 - Buzzer 20 & 50) by jumpers
+  * Two Remote connectors 2.5mm & 3.5mm to allow all possibilities
+  * Removed ICSP pins
 
 16-05-2020 - MegaDuino 2.9
 
