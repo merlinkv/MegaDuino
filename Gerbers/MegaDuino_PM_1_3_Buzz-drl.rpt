@@ -1,0 +1,30 @@
+Drill report for E:\PCBs\MegaDuino_OK\MegaDuino_PM_1_3_Buzz\MegaDuino_PM_1_3_Buzz.kicad_pcb
+Created on 09-01-2021 8:19:10 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'MegaDuino_PM_1_3_Buzz-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,50mm  0,020"  (48 holes)
+    T2  0,80mm  0,031"  (35 holes)  (with 3 slots)
+    T3  0,90mm  0,035"  (28 holes)
+    T4  1,00mm  0,039"  (113 holes)  (with 3 slots)
+    T5  1,10mm  0,043"  (24 holes)
+    T6  1,20mm  0,047"  (10 holes)
+    T7  1,50mm  0,059"  (4 holes)
+    T8  3,20mm  0,126"  (4 holes)
+
+    Total plated holes count 266
+
+
+Drill file 'MegaDuino_PM_1_3_Buzz-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1,50mm  0,059"  (2 holes)
+
+    Total unplated holes count 2
