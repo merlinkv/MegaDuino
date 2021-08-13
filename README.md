@@ -6,7 +6,7 @@
 
 # ATTENTION
 
-This project was made for the retro community and not for commercial purpouses. So only retro hardware forums and individual people can build this project.
+This project was made for the retro community and not for commercial purposes. So only retro hardware forums and individual people can build this project.
 
 ITS SALE ON EBAY OR OTHER AUCTION SITES IS PROHIBITED
 
