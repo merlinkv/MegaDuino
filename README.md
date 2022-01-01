@@ -46,7 +46,7 @@ Board revisions and notes
     * 3-4 OFF -> REM (L) - ON / R - OFF / GND - ON
     * 3 ON / 4 OFF -> REM (L)+R - ON / GND - ON
     * 3 OFF / 4 ON -> REM (L) - ON / R+GND - ON
-* Added footprint to add an ICSP connector (optional) to allow use the Mega 2560 as master/slave board without opening the case.
+* Added footprint to add one ICSP connector (optional) to allow use the Mega 2560 as master/slave board without opening the case.
 
 
 **05-10-2020 - MegaDuino PM 1.3**
