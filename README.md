@@ -14,7 +14,7 @@ ITS SALE ON EBAY OR OTHER AUCTION SITES IS PROHIBITED
 
 I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
 
-# MegaDuino PM 1.3
+# MegaDuino 4.7
 
 An improved versión of the initial MegaDuino project started by me on September 2019.
 
