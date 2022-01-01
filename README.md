@@ -30,14 +30,14 @@ A special thanks to Alfredo (acf76es), without his help this update would not ha
 
 Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina and others.
 
-MegaDuino PM 1.3 has been tested on **ZX Spectrum**, **Amstrad CPC**, **MSX**, **Oric Atmos**, **Dragon**, **Tandy Coco**, **Acorn Electron**, **BBC-Micro**, **ZX80** & **ZX81** computers.
+**MegaDuino** has been tested on **ZX Spectrum**, **Amstrad CPC**, **MSX**, **Oric Atmos**, **Dragon**, **Tandy Coco**, **Acorn Electron**, **BBC-Micro**, **ZX80** & **ZX81** computers.
 
-Board revision and notes
+Board revisions and notes
 
 **01-01-2022 - MegaDuino 4.7**
 
 * Removed external power jack & led.
-* Added an 4 rows piano switch to allow selection of 3.5" audio and remote cables to be used:
+* Added a 4 rows piano switch to allow selection of 3.5mm audio and remote cables to be used:
   - **AUDIO**
     * 1-2 OFF -> L - ON / R - OFF / GND - ON
     * 1 ON / 2 OFF -> L+R - ON / GND - ON
