@@ -36,12 +36,16 @@ Board revision and notes
 
 **01-01-2022 - MegaDuino 4.7**
 
-* Removed external power jack
+* Removed external power jack & led.
 * Added an 4 rows piano switch to allow selection of 3.5" audio and remote cables to be used:
-  - AUDIO
+  - **AUDIO**
     * 1-2 OFF -> L - ON / R - OFF / GND - ON
     * 1 ON / 2 OFF -> L+R - ON / GND - ON
     * 1 OFF / 2 ON -> L - ON / R+GND - ON
+  - **REMOTE**
+    * 3-4 OFF -> REM (L) - ON / R - OFF / GND - ON
+    * 3 ON / 4 OFF -> REM (L)+R - ON / GND - ON
+    * 3 OFF / 4 ON -> REM (L) - ON / R+GND - ON
 * Added footprint to add an ICSP connector (optional) and allow to program the Mega 2560 or use master/slave boards without opening the case.
 
 
