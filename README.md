@@ -16,9 +16,9 @@ I take no responsibiltiy for any damage to any equipment that results from the u
 
 USE AT YOUR OWN RISK!
 
-# MegaDuino 4.7
+# MegaDuino
 
-An improved versión of the initial MegaDuino project started by me on September 2019.
+An improved versión of the initial project started by me on September 2019.
 
 MegaDuino is an evolution of other projects like TZXDuino and CASduino but it's based on the Arduino Mega 2560 Pro Embed board.
 
