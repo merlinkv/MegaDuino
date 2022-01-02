@@ -39,7 +39,7 @@ Board revisions and notes
 **01-01-2022 - MegaDuino 4.7**
 
 * Removed external power jack & led.
-* Added a 4 rows piano switch to allow selection of 3.5mm audio and remote cables to be used:
+* A 4-row piano switch was added to allow selection of remote and audio cable type (3.5mm connectors).
   - **AUDIO**
     * 1-2 OFF -> L - ON / R - OFF / GND - ON
     * 1 ON / 2 OFF -> L+R - ON / GND - ON
