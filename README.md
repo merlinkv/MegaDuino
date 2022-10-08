@@ -50,6 +50,9 @@ Board revisions and notes
     * 3 OFF / 4 ON -> REM (L) - ON / R+GND - ON
 * Added footprint to add one ICSP connector (optional) to allow use the Mega 2560 as master/slave board without opening the case.
 
+* Audio GAIN & FILTERS
+
+![Audio_Gain_and_Filters](https://github.com/merlinkv/ZX3_8xROM_Adapter/blob/main/ZX3_8xROM_Adapter_Front.jpg)
 
 **05-10-2020 - MegaDuino PM 1.3**
   * All capacitors & resistors are SMD
