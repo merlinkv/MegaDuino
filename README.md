@@ -54,7 +54,7 @@ In most cases is best to use the MegaDuino with the amplifier OFF.
 
 * Audio GAIN & FILTERS
 
-![Gain&Filters](https://github.com/merlinkv/MegaDuino/blob/main/MegaDuino_4_7_Gain_Jumpers.jpg)
+![Gain&Filters](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_4_7_Gain_Jumpers.jpg)
 
 **05-10-2020 - MegaDuino PM 1.3**
   * All capacitors & resistors are SMD
