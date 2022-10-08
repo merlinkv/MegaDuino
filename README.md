@@ -52,7 +52,7 @@ Board revisions and notes
 
 * Audio GAIN & FILTERS
 
-![Audio_Gain_and_Filters](https://github.com/merlinkv/MegaDuino_4_7/blob/main/MegaDuino_4_7_Gain_Jumpers.jpg)
+![Audio_Gain_and_Filters](https://github.com/merlinkv/MegaDuino/blob/main/MegaDuino_4_7_Gain_Jumpers.jpg)
 
 **05-10-2020 - MegaDuino PM 1.3**
   * All capacitors & resistors are SMD
