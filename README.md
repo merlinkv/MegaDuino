@@ -38,6 +38,8 @@ Board revisions and notes
 
 **01-01-2022 - MegaDuino 4.7**
 
+In most cases is best to use the MegaDuino with the amplifier OFF.
+
 * Removed external power jack & led.
 * A 4-row piano switch was added to allow selection of remote and audio cable type (3.5mm jacks).
   - **AUDIO**
