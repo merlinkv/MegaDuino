@@ -76,6 +76,5 @@ Links:
 * https://www.winuaespanol.com/phpbb3/viewtopic.php?p=6217#p6217
 * https://www.va-de-retro.com/foros/viewtopic.php?f=63&t=8496#p150210
 
-![Front](https://github.com/merlinkv/MegaDuino/blob/main/MegaDuino_4_7_Front.jpg)
 
 
