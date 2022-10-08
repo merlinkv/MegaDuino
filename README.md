@@ -43,7 +43,7 @@ In most cases is best to use the MegaDuino with the amplifier OFF.
 * Removed external power jack & led.
 * A 4-row piano switch was added to allow selection of remote and audio cable type (3.5mm jacks).
 
-![Audio & Remote Options](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_4_7_Audio_Rem_Options.jpg)
+![Audio & Remote Options](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_4_7_Audio_Remote_Options.jpg)
 
 * Added footprint to add one ICSP connector (optional) to allow use the Mega 2560 as master/slave board without opening the case.
 
