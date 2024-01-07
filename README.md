@@ -40,7 +40,7 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
   - Although there are many versions of digital players for our retro equipments. It has encouraged me to do a new review of my **MegaDuino** project, with the idea of eliminating things that have proven to be unnecessary, giving it a much smaller format (note that it is not a mini or nano) and greater overall quality of the gadget.
   - Audio amplifier is based now on PAM8406 IC
   - Now the board use a mSD connector
-  - Circuit of the mSD made with the help of @cacchareo (from VDR Forum)
+  - Circuit of the mSD made with the help of @cacharreo (from VDR Forum), thanks my friend!
 
 * **01-01-2022 - MegaDuino 4.7**
   - In most cases is best to use the MegaDuino with the amplifier OFF.
