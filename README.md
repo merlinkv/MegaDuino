@@ -54,17 +54,15 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
   - Removed ICSP pins
 
 * **16-05-2020 - MegaDuino 2.9**
-
-* Reworked amplifier schema and added a DPDT slide switch to completely separate signal when the amplifier is ON or OFF.
-* Reworked connections of the Audio OUT jack to allow use of stereo or mono cables without need to modify them. Also eliminates undesired signals.
-* Removed extra 5v & 3.3v pins
-* ICSP pins moved to a better position to allow program the Mega 2560 or use master/slave boards without opening the case.
+  - Reworked amplifier schema and added a DPDT slide switch to completely separate signal when the amplifier is ON or OFF.
+  - Reworked connections of the Audio OUT jack to allow use of stereo or mono cables without need to modify them. Also eliminates undesired signals.
+  - Removed extra 5v & 3.3v pins
+  - ICSP pins moved to a better position to allow program the Mega 2560 or use master/slave boards without opening the case.
 
 * **11-04-2020 - MegaDuino 2.8**
+  - Jumpers added to allow selection of signal gain. Now it's possible to select between 50 and 200.
 
-* Jumpers added to allow selection of signal gain. Now it's possible to select between 50 and 200.
-
-Links:
+# Links:
 
 * https://www.winuaespanol.com/phpbb3/viewtopic.php?p=2844#p2844
 * https://www.winuaespanol.com/phpbb3/viewtopic.php?p=6217#p6217
