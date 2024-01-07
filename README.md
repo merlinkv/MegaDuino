@@ -37,8 +37,7 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 # Board revisions and notes
 
 * **07-01-2024 - MegaDuino 5.0b (Beta)**
-
-- Although there are many versions of digital players for our retro equipments. It has encouraged me to do a new review of my **MegaDuino** project, with the idea of eliminating things that have proven to be unnecessary, giving it a much smaller format (note that it is not a mini or nano) and greater overall quality of the gadget.
+  - Although there are many versions of digital players for our retro equipments. It has encouraged me to do a new review of my **MegaDuino** project, with the idea of eliminating things that have proven to be unnecessary, giving it a much smaller format (note that it is not a mini or nano) and greater overall quality of the gadget.
 
 * **01-01-2022 - MegaDuino 4.7**
   - In most cases is best to use the MegaDuino with the amplifier OFF.
