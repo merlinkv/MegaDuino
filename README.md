@@ -36,7 +36,7 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 
 ** Board revisions and notes
 
-* **01-01-2022 - MegaDuino 4.7**
+# **01-01-2022 - MegaDuino 4.7**
 
 * In most cases is best to use the MegaDuino with the amplifier OFF.
 * Removed external power jack & led.
@@ -50,7 +50,7 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 
 * ![Audio Gain & Filters](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_4_7_Gain_Jumpers.jpg)
 
-* **05-10-2020 - MegaDuino PM 1.3**
+# **05-10-2020 - MegaDuino PM 1.3**
   * All capacitors & resistors are SMD
   * Added Buzzer circuitry to allow listening the loading sounds directly from MegaDuino. Can be activated or deactivated.
   * Added 3mm leds for External Power, USB Power, Amplifier ON, Amplifier OFF & Buzzer ON/OFF
