@@ -40,11 +40,9 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
   - In most cases is best to use the MegaDuino with the amplifier OFF.
   - Removed external power jack & led.
   - A 4-row piano switch was added to allow selection of remote and audio cable type (3.5mm jacks).
-  - ![Audio & Remote Options](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_4_7_Audio_Remote_Options.jpg)
   - Added footprint to add one ICSP connector (optional) to allow use the Mega 2560 as master/slave board without opening the case.
   - Audio GAIN & FILTERS
-  - ![Audio Gain & Filters](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_4_7_Gain_Jumpers.jpg)
-  -
+
 * **05-10-2020 - MegaDuino PM 1.3**
   - All capacitors & resistors are SMD
   - Added Buzzer circuitry to allow listening the loading sounds directly from MegaDuino. Can be activated or deactivated.
