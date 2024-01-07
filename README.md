@@ -38,20 +38,19 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 
 * **01-01-2022 - MegaDuino 4.7**
 
-In most cases is best to use the MegaDuino with the amplifier OFF.
-
+* In most cases is best to use the MegaDuino with the amplifier OFF.
 * Removed external power jack & led.
 * A 4-row piano switch was added to allow selection of remote and audio cable type (3.5mm jacks).
 
-![Audio & Remote Options](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_4_7_Audio_Remote_Options.jpg)
+* ![Audio & Remote Options](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_4_7_Audio_Remote_Options.jpg)
 
 * Added footprint to add one ICSP connector (optional) to allow use the Mega 2560 as master/slave board without opening the case.
 
 * Audio GAIN & FILTERS
 
-![Audio Gain & Filters](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_4_7_Gain_Jumpers.jpg)
+* ![Audio Gain & Filters](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_4_7_Gain_Jumpers.jpg)
 
-**05-10-2020 - MegaDuino PM 1.3**
+* **05-10-2020 - MegaDuino PM 1.3**
   * All capacitors & resistors are SMD
   * Added Buzzer circuitry to allow listening the loading sounds directly from MegaDuino. Can be activated or deactivated.
   * Added 3mm leds for External Power, USB Power, Amplifier ON, Amplifier OFF & Buzzer ON/OFF
@@ -59,14 +58,14 @@ In most cases is best to use the MegaDuino with the amplifier OFF.
   * Two Remote connectors 2.5mm & 3.5mm to allow all connection possibilities
   * Removed ICSP pins
 
-**16-05-2020 - MegaDuino 2.9**
+* **16-05-2020 - MegaDuino 2.9**
 
 * Reworked amplifier schema and added a DPDT slide switch to completely separate signal when the amplifier is ON or OFF.
 * Reworked connections of the Audio OUT jack to allow use of stereo or mono cables without need to modify them. Also eliminates undesired signals.
 * Removed extra 5v & 3.3v pins
 * ICSP pins moved to a better position to allow program the Mega 2560 or use master/slave boards without opening the case.
 
-**11-04-2020 - MegaDuino 2.8**
+* **11-04-2020 - MegaDuino 2.8**
 
 * Jumpers added to allow selection of signal gain. Now it's possible to select between 50 and 200.
 
