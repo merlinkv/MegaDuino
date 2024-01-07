@@ -34,7 +34,7 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 
 **MegaDuino** has been tested on **ZX Spectrum**, **Amstrad CPC**, **MSX**, **Oric Atmos**, **Dragon**, **Tandy Coco**, **Acorn Electron**, **BBC-Micro**, **ZX80** & **ZX81** computers.
 
-** Board revisions and notes
+# Board revisions and notes
 
 * **01-01-2022 - MegaDuino 4.7**
   - In most cases is best to use the MegaDuino with the amplifier OFF.
