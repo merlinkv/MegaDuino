@@ -41,7 +41,7 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
   - Audio amplifier is based now on PAM8406 IC
   - Now the board use a mSD connector
   - Circuit of the mSD made with the help of @cacharreo (from VDR Forum), thanks my friend!
-  - This Beta version is not tested at the moment. If you to biuld one, use the v4.7.
+  - This Beta version is not tested at the moment. If you to build one, use the v4.7.
 
 * **01-01-2022 - MegaDuino 4.7**
   - In most cases is best to use the MegaDuino with the amplifier OFF.
