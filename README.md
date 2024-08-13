@@ -42,7 +42,6 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 
 * **07-01-2024 - MegaDuino 5.0b (Beta - Not Tested)**
   - Although there are many versions of digital players for our retro equipments. It has encouraged me to do a new review of my **MegaDuino** project, with the idea of eliminating things that have proven to be unnecessary, giving it a much smaller format (note that it is not a mini or nano) and greater overall quality of the gadget.
-  - Audio amplifier is based now on PAM8406 IC
   - Now the board use a mSD connector
   - Circuit of the mSD made with the help of @cacharreo (from VDR Forum), thanks my friend!
   - This Beta version is not tested at the moment. If you want to build one, use the v4.7.
