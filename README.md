@@ -41,7 +41,7 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 # Board revisions and notes
 
 * **12-01-2025 - MegaDuino 5.5**
-  - Added External power jack
+  - Added External Power Jack
   - Supressed Remote2 connector
   - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino%205.5.html)
 
