@@ -40,11 +40,15 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 
 # Board revisions and notes
 
+* **08-06-2025 - MegaDuino 7.0**
+  - Revised PCB
+  - Some minor changes
+  -   - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino%207.html)
+
 * **12-01-2025 - MegaDuino 5.5**
   - Added External Power Jack
   - Supressed Remote2 connector
-  - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino%205.5.html)
-
+  
 * **12-08-2024 - MegaDuino 5.0 - Final**
   - Fixed some routing mistakes.
   - Board is fully working now
