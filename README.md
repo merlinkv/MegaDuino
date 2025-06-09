@@ -89,9 +89,9 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 
 # Images
 
-![Version 7 Front](https://github.com/merlinkv/MegaDuino/blob/main/MegaDuino_7_Front.jpg)
+![Version 7 Front](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_7_Back.jpg)
 
-![Version 7 Back](https://github.com/merlinkv/MegaDuino/blob/main/MegaDuino_7_Back.jpg)
+![Version 7 Back](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_7_Back.jpg)
 
 
 
