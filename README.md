@@ -43,7 +43,7 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 * **08-06-2025 - MegaDuino 7.0**
   - Revised PCB
   - Some minor changes
-  - [Interactive BOM MegaDuino_7](https://htmlpreview.github.io/?https://github.com/merlinkv/MegaDuino/blob/main/MegaDuino_7.html)
+  - [Interactive BOM MegaDuino](https://htmlpreview.github.io/?https://github.com/merlinkv/MegaDuino/blob/main/MegaDuino_7.html)
 
 * **12-01-2025 - MegaDuino 5.5**
   - Added External Power Jack
@@ -86,6 +86,12 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 # Links:
 
 * https://www.va-de-retro.com/foros/viewtopic.php?p=189490#p189490
+
+# Images
+
+![Version 7.0 Front](https://github.com/merlinkv/MegaDuino/blob/main/MegaDuino_7_Front.jpg)
+
+![Version 7.0 Back](https://github.com/merlinkv/MegaDuino/blob/main/MegaDuino_7_Back.jpg)
 
 
 
