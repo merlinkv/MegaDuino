@@ -40,10 +40,10 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 
 # Board revisions and notes
 
-* **07-07-2025 - MegaDuino 7.5**
-  - Revised PCB
+* **30-11-2025 - MegaDuino 8.0**
+  - Revised amplifier circuit
   - Some minor changes
-  - [Interactive BOM MegaDuino 7.5](https://htmlpreview.github.io/?https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_7_5.html)
+  - [Interactive BOM MegaDuino 8.0](https://htmlpreview.github.io/?https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_8_0.html)
 
 * **12-01-2025 - MegaDuino 5.5**
   - Added External Power Jack
@@ -89,9 +89,9 @@ Original firmware based on developments by Andrew Beer, Duncan Edwards, rcmolina
 
 # Images
 
-![Version 7.5 Front](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_7_5_Front.jpg)
+![Version 8.0 Front](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_8_0_Front.jpg)
 
-![Version 7.5 Back](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_7_5_Back.jpg)
+![Version 8.0 Back](https://github.com/merlinkv/MegaDuino/blob/master/MegaDuino_8_0_Back.jpg)
 
 
 
